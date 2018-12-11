@@ -13,7 +13,7 @@ public class Manager{
   }
 
 	   public Manager(String numefisier) {
-          File casa = new File(numefisier);
+          File casa = new File(numefisier); //blabalaln
 	   }
 	   
 	    public void readFromFile(String path) { //afiseaza dar si retine fisierul
